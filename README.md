@@ -144,9 +144,11 @@ Actual 1    27            13
 - scikit-learn==1.2.0
 
 ## Contributors
-- DataPhoenix Group (as per report).
+- Rohith Reddy Jonnalagadda
+- Jennifer Monica Maran
+- Sai Vamshi P
 
 ## License
 MIT License. Feel free to use and modify.
 
-For questions, contact [your-email@example.com].
+For questions, contact rohithreddyjonnalagadda@gmail.com.
